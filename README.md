@@ -6,3 +6,6 @@ yarn add @material-ui/core@1.4.3 @material-ui/icons@2.0.2 react-reveal@1.2.2 rea
 
  # Resources used
  react slick github
+ https://github.com/akiran/react-slick
+ 
+ https://github.com/rnosov/react-reveal
