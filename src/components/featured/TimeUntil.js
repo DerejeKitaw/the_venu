@@ -27,7 +27,7 @@ class TimeUntil extends Component {
     }
   }
   componentDidMount() {
-    setInterval(()=>this.getTimeUntile(this.state.deadline),1000)
+    setInterval(() => this.getTimeUntile(this.state.deadline), 1000);
   }
   render() {
     return (
